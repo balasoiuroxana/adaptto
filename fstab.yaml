@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p114455-e267559-cmstg.adobeaemcloud.com"
-    type: "markup"
+    url: https://author-p114455-e267559-cmstg.adobeaemcloud.com
+    type: markup
     suffix: ".html"
